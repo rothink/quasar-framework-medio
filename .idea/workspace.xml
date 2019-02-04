@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf0f8b37-5b87-4d45-ab39-28e796e34f92" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/server/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/server/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/server/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.github/ISSUE_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/server/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/cake" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/cake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/cake.bat" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/cake.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/cake.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/cake.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/server/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/Migrations/20170321003612_CreateProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/Migrations/20170321003612_CreateProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/Migrations/20170321004215_CreateCategories.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/Migrations/20170321004215_CreateCategories.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/Migrations/20170321004335_CreateCategoriesProducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/Migrations/20170321004335_CreateCategoriesProducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/Migrations/20170321004847_CreateStockIn.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/Migrations/20170321004847_CreateStockIn.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/Migrations/20170321004851_CreateStockOut.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/Migrations/20170321004851_CreateStockOut.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/Migrations/20170321004857_CreateStock.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/Migrations/20170321004857_CreateStock.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/Migrations/schema-dump-default.lock" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/Migrations/schema-dump-default.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/app.default.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/app.default.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/bootstrap_cli.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/bootstrap_cli.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/paths.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/paths.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/schema/i18n.sql" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/schema/i18n.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/config/schema/sessions.sql" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/schema/sessions.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/phpunit.xml.dist" beforeDir="false" afterPath="$PROJECT_DIR$/server/phpunit.xml.dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugins/empty" beforeDir="false" afterPath="$PROJECT_DIR$/server/plugins/empty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Application.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Application.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Console/Installer.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Console/Installer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Controller/AppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Controller/AppController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Controller/CategoriesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Controller/CategoriesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Controller/Component/empty" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Controller/Component/empty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Controller/ErrorController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Controller/ErrorController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Controller/PagesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Controller/PagesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Controller/ProductsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Controller/ProductsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Controller/StockInController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Controller/StockInController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Controller/StockOutController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Controller/StockOutController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Locale/cake.pot" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Locale/cake.pot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Locale/default.pot" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Locale/default.pot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Locale/pt_BR/default.po" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Locale/pt_BR/default.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Middleware/CorsMiddleware.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Middleware/CorsMiddleware.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Model/Behavior/StockManagerBehavior.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Model/Behavior/StockManagerBehavior.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Model/Entity/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Model/Entity/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Model/Entity/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Model/Entity/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Model/Entity/Stock.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Model/Entity/Stock.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Model/Entity/StockIn.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Model/Entity/StockIn.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Model/Entity/StockOut.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Model/Entity/StockOut.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Model/Table/CategoriesTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Model/Table/CategoriesTable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Model/Table/ProductsTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Model/Table/ProductsTable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Model/Table/StockInTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Model/Table/StockInTable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Model/Table/StockOutTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Model/Table/StockOutTable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Model/Table/StockTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Model/Table/StockTable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Shell/ConsoleShell.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Shell/ConsoleShell.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Categories/add.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Categories/add.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Categories/edit.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Categories/edit.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Categories/index.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Categories/index.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Categories/view.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Categories/view.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Element/Flash/default.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Element/Flash/default.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Element/Flash/error.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Element/Flash/error.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Element/Flash/success.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Element/Flash/success.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Element/adminlte/content.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Element/adminlte/content.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Element/adminlte/control_sidebar.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Element/adminlte/control_sidebar.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Element/adminlte/footer.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Element/adminlte/footer.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Element/adminlte/header.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Element/adminlte/header.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Element/adminlte/sidebar.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Element/adminlte/sidebar.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Element/footer.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Element/footer.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Element/nav-bar-left.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Element/nav-bar-left.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Element/nav-bar-right.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Element/nav-bar-right.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Email/html/default.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Email/html/default.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Email/text/default.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Email/text/default.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Error/error400.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Error/error400.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Error/error500.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Error/error500.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Layout/Email/html/default.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Layout/Email/html/default.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Layout/Email/text/default.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Layout/Email/text/default.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Layout/ajax.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Layout/ajax.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Layout/default.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Layout/default.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Layout/error.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Layout/error.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Layout/rss/default.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Layout/rss/default.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Pages/home.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Pages/home.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Products/add.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Products/add.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Products/edit.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Products/edit.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Products/index.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Products/index.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/Products/view.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/Products/view.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/StockIn/add.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/StockIn/add.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/StockIn/index.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/StockIn/index.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/StockIn/view.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/StockIn/view.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/StockOut/add.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/StockOut/add.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/StockOut/index.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/StockOut/index.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/Template/StockOut/view.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/Template/StockOut/view.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/View/AjaxView.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/View/AjaxView.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/View/AppView.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/View/AppView.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/View/Helper/StockStatusHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/View/Helper/StockStatusHelper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/Fixture/CategoriesFixture.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/Fixture/CategoriesFixture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/Fixture/ProductsFixture.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/Fixture/ProductsFixture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/Fixture/StockFixture.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/Fixture/StockFixture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/Fixture/StockInFixture.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/Fixture/StockInFixture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/Fixture/StockOutFixture.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/Fixture/StockOutFixture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/ApplicationTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/ApplicationTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Controller/Api/ProductsControllerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Controller/Api/ProductsControllerTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Controller/ApiProductsControllerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Controller/ApiProductsControllerTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Controller/CategoriesControllerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Controller/CategoriesControllerTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Controller/Component/empty" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Controller/Component/empty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Controller/PagesControllerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Controller/PagesControllerTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Controller/ProductsControllerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Controller/ProductsControllerTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Controller/StockInControllerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Controller/StockInControllerTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Controller/StockOutControllerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Controller/StockOutControllerTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Model/Behavior/StockManagerBehaviorTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Model/Behavior/StockManagerBehaviorTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Model/Table/CategoriesTableTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Model/Table/CategoriesTableTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Model/Table/ProductsTableTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Model/Table/ProductsTableTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Model/Table/StockInTableTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Model/Table/StockInTableTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Model/Table/StockOutTableTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Model/Table/StockOutTableTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/Model/Table/StockTableTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/Model/Table/StockTableTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/TestCase/View/Helper/StockStatusHelperTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/TestCase/View/Helper/StockStatusHelperTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/config/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/phpunit.xml.dist" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/phpunit.xml.dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Controller/AppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Controller/AppController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Shell/PublishShell.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Shell/PublishShell.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Bake/Element/form.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Bake/Element/form.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Bake/Template/add.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Bake/Template/add.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Bake/Template/edit.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Bake/Template/edit.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Bake/Template/index.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Bake/Template/index.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Bake/Template/view.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Bake/Template/view.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/Flash/default.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/Flash/default.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/Flash/error.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/Flash/error.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/Flash/success.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/Flash/success.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/adminlte/content.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/adminlte/content.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/adminlte/control_sidebar.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/adminlte/control_sidebar.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/adminlte/footer.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/adminlte/footer.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/adminlte/header.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/adminlte/header.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/adminlte/sidebar.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/adminlte/sidebar.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/footer.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/footer.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/nav-bar-left.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/nav-bar-left.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/nav-bar-right.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Element/nav-bar-right.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Layout/adminlte.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Layout/adminlte.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Layout/default.ctp" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/Template/Layout/default.ctp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/View/Helper/FormHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/src/View/Helper/FormHelper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/AdminLTE.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/AdminLTE.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/AdminLTE.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/AdminLTE.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/_all-skins.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/_all-skins.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/_all-skins.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/_all-skins.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-black-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-black-light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-black-light.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-black-light.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-black.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-black.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-black.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-black.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-blue-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-blue-light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-blue-light.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-blue-light.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-blue.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-blue.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-green-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-green-light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-green-light.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-green-light.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-green.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-green.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-green.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-green.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-purple-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-purple-light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-purple-light.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-purple-light.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-purple.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-purple.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-purple.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-purple.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-red-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-red-light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-red-light.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-red-light.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-red.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-red.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-red.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-red.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-yellow-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-yellow-light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-yellow-light.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-yellow-light.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-yellow.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-yellow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-yellow.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/css/skins/skin-yellow.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/empty" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/empty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/avatar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/avatar04.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/avatar04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/avatar2.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/avatar2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/avatar3.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/avatar3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/avatar5.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/avatar5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/boxed-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/boxed-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/boxed-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/boxed-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/american-express.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/american-express.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/cirrus.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/cirrus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/mastercard.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/mastercard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/mestro.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/mestro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/paypal.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/paypal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/paypal2.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/paypal2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/visa.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/credit/visa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/default-50x50.gif" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/default-50x50.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/photo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/photo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/photo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/photo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/photo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/photo3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/photo4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/photo4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user1-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user1-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user2-160x160.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user2-160x160.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user3-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user3-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user4-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user4-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user5-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user5-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user6-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user6-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user7-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user7-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user8-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/img/user8-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/js/app.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/js/app.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/js/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/js/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/js/pages/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/js/pages/dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/js/pages/dashboard2.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/vendor/cakephp-brasil/twitter-bootstrap/webroot/js/pages/dashboard2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/css/cake.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/css/cake.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/font/cakedingbats-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/font/cakedingbats-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/font/cakedingbats-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/font/cakedingbats-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/font/cakedingbats-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/font/cakedingbats-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/font/cakedingbats-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/font/cakedingbats-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/font/cakedingbats-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/font/cakedingbats-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/img/cake-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/img/cake-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/img/cake.icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/img/cake.icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/img/cake.logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/img/cake.logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/img/cake.power.gif" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/img/cake.power.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/webroot/js/empty" beforeDir="false" afterPath="$PROJECT_DIR$/server/webroot/js/empty" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1618190557">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="9" />
+          <entry key="php" value="1" />
+          <entry key="vue" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="9" />
+          <entry key="PHP" value="1" />
+          <entry key="Vue.js" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="503" />
+          <entry key="php" value="18" />
+          <entry key="vue" value="763" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="503" />
+          <entry key="PHP" value="18" />
+          <entry key="Vue.js" value="763" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/quasar/src/pages/products/list.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quasar/src/store/products/actions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quasar/src/store/products/mutations.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quasar/src/store/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quasar/src/store/products/state.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quasar/src/store/products/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quasar/src/router/routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="66" lean-forward="true" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>q-btn</find>
+      <find>tab</find>
+      <find>ORANGE</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/config/app.php" />
+        <option value="$PROJECT_DIR$/quasar/quasar.conf.js" />
+        <option value="$PROJECT_DIR$/quasar/src/layouts/dark.vue" />
+        <option value="$PROJECT_DIR$/quasar/src/router/routes.js" />
+        <option value="$PROJECT_DIR$/quasar/src/store/index.js" />
+        <option value="$PROJECT_DIR$/quasar/src/store/products/actions.js" />
+        <option value="$PROJECT_DIR$/quasar/src/store/products/state.js" />
+        <option value="$PROJECT_DIR$/quasar/src/store/products/mutations.js" />
+        <option value="$PROJECT_DIR$/quasar/src/pages/products/list.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/quasar/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/quasar/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="2483" />
+    <option name="y" value="-2" />
+    <option name="width" value="1357" />
+    <option name="height" value="1082" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="quasar-intermediario" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quasar-intermediario" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quasar-intermediario" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quasar-intermediario" type="462c0819:PsiDirectoryNode" />
+              <item name="quasar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quasar-intermediario" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quasar-intermediario" type="462c0819:PsiDirectoryNode" />
+              <item name="quasar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quasar-intermediario" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quasar-intermediario" type="462c0819:PsiDirectoryNode" />
+              <item name="quasar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quasar-intermediario" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quasar-intermediario" type="462c0819:PsiDirectoryNode" />
+              <item name="quasar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quasar-intermediario" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quasar-intermediario" type="462c0819:PsiDirectoryNode" />
+              <item name="quasar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quasar-intermediario" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quasar-intermediario" type="462c0819:PsiDirectoryNode" />
+              <item name="quasar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quasar-intermediario" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quasar-intermediario" type="462c0819:PsiDirectoryNode" />
+              <item name="quasar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf0f8b37-5b87-4d45-ab39-28e796e34f92" name="Default Changelist" comment="" />
+      <created>1549312718405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549312718405</updated>
+      <workItem from="1549312720527" duration="5211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5211000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2483" y="-2" width="1357" height="1082" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21891686" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarQube" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32983193" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="233" column="27" selection-start-line="233" selection-start-column="27" selection-end-line="233" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quasar/quasar.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quasar/src/layouts/dark.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="55" column="54" lean-forward="true" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+          <folding>
+            <element signature="n#q-layout-header#0;n#q-layout#0;n#template#0;n#!!top" />
+            <element signature="n#q-layout-drawer#0;n#q-layout#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quasar/src/router/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="66" lean-forward="true" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quasar/src/store/products/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quasar/src/store/products/state.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quasar/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quasar/src/store/products/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quasar/src/store/products/mutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quasar/src/pages/products/list.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
